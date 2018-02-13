@@ -67,5 +67,5 @@ EmployeeService employeeService = context.getBean(EmployeeService.class);
 ```
 **5. Conclusion**
 
-This tutorial has showcased the Contractor-Based Dependency Injection using Annotation in Spring framework.
+This tutorial has showcased the Setter-Based Dependency Injection using Annotation in Spring framework.
 
