@@ -33,7 +33,7 @@ Before we describe in detail about the above injection methods we will first add
 </dependency>
 ```
 
-**3.1 Setter Injection**
+**3.2 Setter Injection**
 
 Setter-based DI is accomplished by the container calling setter methods on your beans after invoking a no-argument constructor or no-argument static factory method to instantiate your bean.
 
